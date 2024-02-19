@@ -1,0 +1,256 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "number": "01",
+            "name": "Chevalier d'Eon",
+            "class": "Saber",
+            "rarity": "N",
+            "images": {
+                "default": "/sets/04/01.png"
+            }
+        },
+        {
+            "id": 2,
+            "number": "02",
+            "name": "Lancelot",
+            "class": "Saber",
+            "rarity": "N",
+            "images": {
+                "default": "/sets/04/02.png"
+            }
+        },
+        {
+            "id": 3,
+            "number": "03",
+            "name": "Nikola Tesla",
+            "class": "Archer",
+            "rarity": "N",
+            "images": {
+                "default": "/sets/04/03.png"
+            }
+        },
+        {
+            "id": 4,
+            "number": "04",
+            "name": "Anne Bonny & Mary Read",
+            "class": "Archer",
+            "rarity": "N",
+            "images": {
+                "default": "/sets/04/04.png"
+            }
+        },
+        {
+            "id": 5,
+            "number": "05",
+            "name": "Minamoto-no-Raikou",
+            "class": "Lancer",
+            "rarity": "N",
+            "images": {
+                "default": "/sets/04/05.png"
+            }
+        },
+        {
+            "id": 6,
+            "number": "06",
+            "name": "Edward Teach",
+            "class": "Rider",
+            "rarity": "N",
+            "images": {
+                "default": "/sets/04/06.png"
+            }
+        },
+        {
+            "id": 7,
+            "number": "07",
+            "name": "Mordred",
+            "class": "Rider",
+            "rarity": "N",
+            "images": {
+                "default": "/sets/04/07.png"
+            }
+        },
+        {
+            "id": 8,
+            "number": "08",
+            "name": "Thomas Edison",
+            "class": "Caster",
+            "rarity": "N",
+            "images": {
+                "default": "/sets/04/08.png"
+            }
+        },
+        {
+            "id": 9,
+            "number": "09",
+            "name": "Carmilla",
+            "class": "Assassin",
+            "rarity": "N",
+            "images": {
+                "default": "/sets/04/09.png"
+            }
+        },
+        {
+            "id": 10,
+            "number": "10",
+            "name": "Scáthach",
+            "class": "Assassin",
+            "rarity": "N",
+            "images": {
+                "default": "/sets/04/10.png"
+            }
+        },
+        {
+            "id": 11,
+            "number": "11",
+            "name": "Beowulf",
+            "class": "Berserker",
+            "rarity": "N",
+            "images": {
+                "default": "/sets/04/11.png"
+            }
+        },
+        {
+            "id": 12,
+            "number": "12",
+            "name": "Berserker of El Dorado",
+            "class": "Berserker",
+            "rarity": "N",
+            "images": {
+                "default": "/sets/04/12.png"
+            }
+        },
+        {
+            "id": 13,
+            "number": "13",
+            "name": "Frankenstein",
+            "class": "Saber",
+            "rarity": "R",
+            "images": {
+                "default": "/sets/04/13.png"
+            }
+        },
+        {
+            "id": 14,
+            "number": "14",
+            "name": "Helena Blavatsky",
+            "class": "Archer",
+            "rarity": "R",
+            "images": {
+                "default": "/sets/04/14.png"
+            }
+        },
+        {
+            "id": 15,
+            "number": "15",
+            "name": "Kiyohime",
+            "class": "Lancer",
+            "rarity": "R",
+            "images": {
+                "default": "/sets/04/15.png"
+            }
+        },
+        {
+            "id": 16,
+            "number": "16",
+            "name": "Ishtar",
+            "class": "Rider",
+            "rarity": "R",
+            "images": {
+                "default": "/sets/04/16.png"
+            }
+        },
+        {
+            "id": 17,
+            "number": "17",
+            "name": "Marie Antoinette",
+            "class": "Caster",
+            "rarity": "R",
+            "images": {
+                "default": "/sets/04/17.png"
+            }
+        },
+        {
+            "id": 18,
+            "number": "18",
+            "name": "Nitocris",
+            "class": "Assassin",
+            "rarity": "R",
+            "images": {
+                "default": "/sets/04/18.png"
+            }
+        },
+        {
+            "id": 19,
+            "number": "19",
+            "name": "Oda Nobunaga",
+            "class": "Berserker",
+            "rarity": "R",
+            "images": {
+                "default": "/sets/04/19.png"
+            }
+        },
+        {
+            "id": 20,
+            "number": "20",
+            "name": "Martha",
+            "class": "Rider",
+            "rarity": "R",
+            "images": {
+                "default": "/sets/04/20.png"
+            }
+        },
+        {
+            "id": 21,
+            "number": "21",
+            "name": "Altria Pendragon",
+            "class": "Archer",
+            "rarity": "SR",
+            "images": {
+                "default": "/sets/04/21.png"
+            }
+        },
+        {
+            "id": 22,
+            "number": "22",
+            "name": "Tamamo-no-Mae",
+            "class": "Lancer",
+            "rarity": "SR",
+            "images": {
+                "default": "/sets/04/22.png"
+            }
+        },
+        {
+            "id": 23,
+            "number": "23",
+            "name": "Altria Pendragon(Alter)",
+            "class": "Rider",
+            "rarity": "SR",
+            "images": {
+                "default": "/sets/04/23.png"
+            }
+        },
+        {
+            "id": 24,
+            "number": "24",
+            "name": "Nero Claudius",
+            "class": "Caster",
+            "rarity": "SR",
+            "images": {
+                "default": "/sets/04/24.png"
+            }
+        },
+        {
+            "id": 25,
+            "number": "25",
+            "name": "Mash Kyrielight",
+            "class": "Shielder",
+            "rarity": "SSR",
+            "images": {
+                "default": "/sets/04/25.png"
+            }
+        }
+    ],
+    "count": 25,
+    "name": "Fate/Grand Order Wafer 4"
+}

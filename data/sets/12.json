@@ -1,0 +1,306 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "number": "01",
+            "name": "Hai Bà Trung",
+            "class": "Saber",
+            "rarity": "N",
+            "images": {
+                "default": "/sets/12/01.png"
+            }
+        },
+        {
+            "id": 2,
+            "number": "02",
+            "name": "Percival",
+            "class": "Lancer",
+            "rarity": "N",
+            "images": {
+                "default": "/sets/12/02.png"
+            }
+        },
+        {
+            "id": 3,
+            "number": "03",
+            "name": "Habetrot",
+            "class": "Rider",
+            "rarity": "N",
+            "images": {
+                "default": "/sets/12/03.png"
+            }
+        },
+        {
+            "id": 4,
+            "number": "04",
+            "name": "Thrúd",
+            "class": "Assassin",
+            "rarity": "N",
+            "images": {
+                "default": "/sets/12/04.png"
+            }
+        },
+        {
+            "id": 5,
+            "number": "05",
+            "name": "Hildr",
+            "class": "Assassin",
+            "rarity": "N",
+            "images": {
+                "default": "/sets/12/05.png"
+            }
+        },
+        {
+            "id": 6,
+            "number": "06",
+            "name": "Assassin",
+            "class": "Ortlinde",
+            "rarity": "N",
+            "images": {
+                "default": "/sets/12/06.png"
+            }
+        },
+        {
+            "id": 7,
+            "number": "07",
+            "name": "Kriemhild",
+            "class": "Berserker",
+            "rarity": "N",
+            "images": {
+                "default": "/sets/12/07.png"
+            }
+        },
+        {
+            "id": 8,
+            "number": "08",
+            "name": "Xu Fu",
+            "class": "Alterego",
+            "rarity": "N",
+            "images": {
+                "default": "/sets/12/08.png"
+            }
+        },
+        {
+            "id": 9,
+            "number": "09",
+            "name": "Mysterious Ranmaru X",
+            "class": "Avenger",
+            "rarity": "N",
+            "images": {
+                "default": "/sets/12/09.png"
+            }
+        },
+        {
+            "id": 10,
+            "number": "10",
+            "name": "Taisui Xingjun",
+            "class": "Alterego",
+            "rarity": "N",
+            "images": {
+                "default": "/sets/12/10.png"
+            }
+        },
+        {
+            "id": 11,
+            "number": "11",
+            "name": "Garteh",
+            "class": "Saber",
+            "rarity": "R",
+            "images": {
+                "default": "/sets/12/11.png"
+            }
+        },
+        {
+            "id": 12,
+            "number": "12",
+            "name": "Dobrynya Nikitich",
+            "class": "Rider",
+            "rarity": "R",
+            "images": {
+                "default": "/sets/12/12.png"
+            }
+        },
+        {
+            "id": 13,
+            "number": "13",
+            "name": "Taigon Wang",
+            "class": "Rider",
+            "rarity": "R",
+            "images": {
+                "default": "/sets/12/13.png"
+            }
+        },
+        {
+            "id": 14,
+            "number": "14",
+            "name": "Wu Zetian",
+            "class": "Caster",
+            "rarity": "R",
+            "images": {
+                "default": "/sets/12/14.png"
+            }
+        },
+        {
+            "id": 15,
+            "number": "15",
+            "name": "Utsumi Erice",
+            "class": "Avenger",
+            "rarity": "R",
+            "images": {
+                "default": "/sets/12/15.png"
+            }
+        },
+        {
+            "id": 16,
+            "number": "16",
+            "name": "James Moriarty",
+            "class": "Ruler",
+            "rarity": "R",
+            "images": {
+                "default": "/sets/12/16.png"
+            }
+        },
+        {
+            "id": 17,
+            "number": "17",
+            "name": "Super Bunyan",
+            "class": "Alterego",
+            "rarity": "R",
+            "images": {
+                "default": "/sets/12/17.png"
+            }
+        },
+        {
+            "id": 18,
+            "number": "18",
+            "name": "Van Gogh",
+            "class": "Foreigner",
+            "rarity": "R",
+            "images": {
+                "default": "/sets/12/18.png"
+            }
+        },
+        {
+            "id": 19,
+            "number": "19",
+            "name": "Altria Pendragon(Alter)",
+            "class": "Saber",
+            "rarity": "R",
+            "images": {
+                "default": "/sets/12/19.png"
+            }
+        },
+        {
+            "id": 20,
+            "number": "20",
+            "name": "Arthur Pendragon(Prototype)",
+            "class": "Saber",
+            "rarity": "R",
+            "images": {
+                "default": "/sets/12/20.png"
+            }
+        },
+        {
+            "id": 21,
+            "number": "21",
+            "name": "Okada Izo",
+            "class": "Assassin",
+            "rarity": "R",
+            "images": {
+                "default": "/sets/12/21.png"
+            }
+        },
+        {
+            "id": 22,
+            "number": "22",
+            "name": "Jeane d'Arc(Alter)",
+            "class": "Avenger",
+            "rarity": "R",
+            "images": {
+                "default": "/sets/12/22.png"
+            }
+        },
+        {
+            "id": 23,
+            "number": "23",
+            "name": "Ashiya Douman",
+            "class": "Alterego",
+            "rarity": "R",
+            "images": {
+                "default": "/sets/12/23.png"
+            }
+        },
+        {
+            "id": 24,
+            "number": "24",
+            "name": "Charlemagne",
+            "class": "Saber",
+            "rarity": "SR",
+            "images": {
+                "default": "/sets/12/24.png"
+            }
+        },
+        {
+            "id": 25,
+            "number": "25",
+            "name": "Sakamoto Ryouma",
+            "class": "Lancer",
+            "rarity": "SR",
+            "images": {
+                "default": "/sets/12/25.png"
+            }
+        },
+        {
+            "id": 26,
+            "number": "26",
+            "name": "Ibuki-Douji",
+            "class": "Berserker",
+            "rarity": "SR",
+            "images": {
+                "default": "/sets/12/26.png"
+            }
+        },
+        {
+            "id": 27,
+            "number": "27",
+            "name": "Scáthach-Skadi",
+            "class": "Ruler",
+            "rarity": "SR",
+            "images": {
+                "default": "/sets/12/27.png"
+            }
+        },
+        {
+            "id": 28,
+            "number": "28",
+            "name": "Koyanskaya of Dark",
+            "class": "Foreigner",
+            "rarity": "SR",
+            "images": {
+                "default": "/sets/12/28.png"
+            }
+        },
+        {
+            "id": 29,
+            "number": "29",
+            "name": "Lady Avalon",
+            "class": "Pretender",
+            "rarity": "SR",
+            "images": {
+                "default": "/sets/12/29.png"
+            }
+        },
+        {
+            "id": 30,
+            "number": "30",
+            "name": "Archetype:EARTH",
+            "class": "Moon Cancer",
+            "rarity": "SSR",
+            "images": {
+                "default": "/sets/12/30.png"
+            }
+        }
+    ],
+    "count": 30,
+    "name": "Fate/Grand Order Wafer 12"
+}

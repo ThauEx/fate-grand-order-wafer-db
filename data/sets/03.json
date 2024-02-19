@@ -1,0 +1,256 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "number": "01",
+            "name": "Yagyu Tajima-no-kami Munenori",
+            "class": "Saber",
+            "rarity": "N",
+            "images": {
+                "default": "/sets/03/01.png"
+            }
+        },
+        {
+            "id": 2,
+            "number": "02",
+            "name": "Tristan",
+            "class": "Archer",
+            "rarity": "N",
+            "images": {
+                "default": "/sets/03/02.png"
+            }
+        },
+        {
+            "id": 3,
+            "number": "03",
+            "name": "Archer of Inferno",
+            "class": "Archer",
+            "rarity": "N",
+            "images": {
+                "default": "/sets/03/03.png"
+            }
+        },
+        {
+            "id": 4,
+            "number": "04",
+            "name": "Houzouin Inshun",
+            "class": "Lancer",
+            "rarity": "N",
+            "images": {
+                "default": "/sets/03/04.png"
+            }
+        },
+        {
+            "id": 5,
+            "number": "05",
+            "name": "Ushiwakamru",
+            "class": "Rider",
+            "rarity": "N",
+            "images": {
+                "default": "/sets/03/05.png"
+            }
+        },
+        {
+            "id": 6,
+            "number": "06",
+            "name": "Alexander",
+            "class": "Rider",
+            "rarity": "N",
+            "images": {
+                "default": "/sets/03/06.png"
+            }
+        },
+        {
+            "id": 7,
+            "number": "07",
+            "name": "Hans Christian Andersen",
+            "class": "Caster",
+            "rarity": "N",
+            "images": {
+                "default": "/sets/03/07.png"
+            }
+        },
+        {
+            "id": 8,
+            "number": "08",
+            "name": "Xuanzang Sanzang",
+            "class": "Caster",
+            "rarity": "N",
+            "images": {
+                "default": "/sets/03/08.png"
+            }
+        },
+        {
+            "id": 9,
+            "number": "09",
+            "name": "Henry Jekyll&Hyde",
+            "class": "Assassin",
+            "rarity": "N",
+            "images": {
+                "default": "/sets/03/09.png"
+            }
+        },
+        {
+            "id": 10,
+            "number": "10",
+            "name": "Assassin of the Nightless Castle",
+            "class": "Assassin",
+            "rarity": "N",
+            "images": {
+                "default": "/sets/03/10.png"
+            }
+        },
+        {
+            "id": 11,
+            "number": "11",
+            "name": "Sakata Kintoki",
+            "class": "Berserker",
+            "rarity": "N",
+            "images": {
+                "default": "/sets/03/11.png"
+            }
+        },
+        {
+            "id": 12,
+            "number": "12",
+            "name": "Mecha Eli-Chan",
+            "class": "Alterego",
+            "rarity": "N",
+            "images": {
+                "default": "/sets/03/12.png"
+            }
+        },
+        {
+            "id": 13,
+            "number": "13",
+            "name": "Altria Pendragon(Lily)",
+            "class": "Saber",
+            "rarity": "R",
+            "images": {
+                "default": "/sets/03/13.png"
+            }
+        },
+        {
+            "id": 14,
+            "number": "14",
+            "name": "Archer of Shinjuku",
+            "class": "Archer",
+            "rarity": "R",
+            "images": {
+                "default": "/sets/03/14.png"
+            }
+        },
+        {
+            "id": 15,
+            "number": "15",
+            "name": "Brynhild",
+            "class": "Lancer",
+            "rarity": "R",
+            "images": {
+                "default": "/sets/03/15.png"
+            }
+        },
+        {
+            "id": 16,
+            "number": "16",
+            "name": "Quetzacoatl",
+            "class": "Rider",
+            "rarity": "R",
+            "images": {
+                "default": "/sets/03/16.png"
+            }
+        },
+        {
+            "id": 17,
+            "number": "17",
+            "name": "Caster of the Nightless Castle",
+            "class": "Caster",
+            "rarity": "R",
+            "images": {
+                "default": "/sets/03/17.png"
+            }
+        },
+        {
+            "id": 18,
+            "number": "18",
+            "name": "Cleopatra",
+            "class": "Assassin",
+            "rarity": "R",
+            "images": {
+                "default": "/sets/03/18.png"
+            }
+        },
+        {
+            "id": 19,
+            "number": "19",
+            "name": "MysteriousHeroineX(Alter)",
+            "class": "Berserker",
+            "rarity": "R",
+            "images": {
+                "default": "/sets/03/19.png"
+            }
+        },
+        {
+            "id": 20,
+            "number": "20",
+            "name": "Sherlock Holmes",
+            "class": "Ruler",
+            "rarity": "R",
+            "images": {
+                "default": "/sets/03/20.png"
+            }
+        },
+        {
+            "id": 21,
+            "number": "21",
+            "name": "Nero Claudius(Bride)",
+            "class": "Saber",
+            "rarity": "SR",
+            "images": {
+                "default": "/sets/03/21.png"
+            }
+        },
+        {
+            "id": 22,
+            "number": "22",
+            "name": "Enkidu",
+            "class": "Lancer",
+            "rarity": "SR",
+            "images": {
+                "default": "/sets/03/22.png"
+            }
+        },
+        {
+            "id": 23,
+            "number": "23",
+            "name": "Leonardo da Vinci",
+            "class": "Caster",
+            "rarity": "SR",
+            "images": {
+                "default": "/sets/03/23.png"
+            }
+        },
+        {
+            "id": 24,
+            "number": "24",
+            "name": "CúChulainn(Alter)",
+            "class": "Berserker",
+            "rarity": "SR",
+            "images": {
+                "default": "/sets/03/24.png"
+            }
+        },
+        {
+            "id": 25,
+            "number": "25",
+            "name": "Miyamoto Musashi",
+            "class": "Saber",
+            "rarity": "SSR",
+            "images": {
+                "default": "/sets/03/25.png"
+            }
+        }
+    ],
+    "count": 25,
+    "name": "Fate/Grand Order Wafer 3"
+}

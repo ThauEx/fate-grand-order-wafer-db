@@ -1,0 +1,286 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "number": "01",
+            "name": "Gilgamesh",
+            "class": "Character card",
+            "rarity": "",
+            "images": {
+                "default": "/sets/absolute-demonic-front-babylonia-2/01.png"
+            }
+        },
+        {
+            "id": 2,
+            "number": "02",
+            "name": "",
+            "class": "",
+            "rarity": "",
+            "images": {
+                "default": "/sets/absolute-demonic-front-babylonia-2/02.png"
+            }
+        },
+        {
+            "id": 3,
+            "number": "03",
+            "name": "",
+            "class": "",
+            "rarity": "",
+            "images": {
+                "default": "/sets/absolute-demonic-front-babylonia-2/03.png"
+            }
+        },
+        {
+            "id": 4,
+            "number": "04",
+            "name": "",
+            "class": "",
+            "rarity": "",
+            "images": {
+                "default": "/sets/absolute-demonic-front-babylonia-2/04.png"
+            }
+        },
+        {
+            "id": 5,
+            "number": "05",
+            "name": "",
+            "class": "",
+            "rarity": "",
+            "images": {
+                "default": "/sets/absolute-demonic-front-babylonia-2/05.png"
+            }
+        },
+        {
+            "id": 6,
+            "number": "06",
+            "name": "Benkei Musashibou",
+            "class": "",
+            "rarity": "",
+            "images": {
+                "default": "/sets/absolute-demonic-front-babylonia-2/06.png"
+            }
+        },
+        {
+            "id": 7,
+            "number": "07",
+            "name": "",
+            "class": "",
+            "rarity": "",
+            "images": {
+                "default": "/sets/absolute-demonic-front-babylonia-2/07.png"
+            }
+        },
+        {
+            "id": 8,
+            "number": "08",
+            "name": "",
+            "class": "",
+            "rarity": "",
+            "images": {
+                "default": "/sets/absolute-demonic-front-babylonia-2/08.png"
+            }
+        },
+        {
+            "id": 9,
+            "number": "09",
+            "name": "",
+            "class": "",
+            "rarity": "",
+            "images": {
+                "default": "/sets/absolute-demonic-front-babylonia-2/09.png"
+            }
+        },
+        {
+            "id": 10,
+            "number": "10",
+            "name": "Quetzal-Koatoru",
+            "class": "",
+            "rarity": "",
+            "images": {
+                "default": "/sets/absolute-demonic-front-babylonia-2/10.png"
+            }
+        },
+        {
+            "id": 11,
+            "number": "11",
+            "name": "Mash Kyrielight",
+            "class": "Story card",
+            "rarity": "",
+            "images": {
+                "default": "/sets/absolute-demonic-front-babylonia-2/11.png"
+            }
+        },
+        {
+            "id": 12,
+            "number": "12",
+            "name": "Mash Kyrielight",
+            "class": "",
+            "rarity": "",
+            "images": {
+                "default": "/sets/absolute-demonic-front-babylonia-2/12.png"
+            }
+        },
+        {
+            "id": 13,
+            "number": "13",
+            "name": "",
+            "class": "",
+            "rarity": "",
+            "images": {
+                "default": "/sets/absolute-demonic-front-babylonia-2/13.png"
+            }
+        },
+        {
+            "id": 14,
+            "number": "14",
+            "name": "Enkidu",
+            "class": "",
+            "rarity": "",
+            "images": {
+                "default": "/sets/absolute-demonic-front-babylonia-2/14.png"
+            }
+        },
+        {
+            "id": 15,
+            "number": "15",
+            "name": "Ana",
+            "class": "",
+            "rarity": "",
+            "images": {
+                "default": "/sets/absolute-demonic-front-babylonia-2/15.png"
+            }
+        },
+        {
+            "id": 16,
+            "number": "16",
+            "name": "Merlin",
+            "class": "",
+            "rarity": "",
+            "images": {
+                "default": "/sets/absolute-demonic-front-babylonia-2/16.png"
+            }
+        },
+        {
+            "id": 17,
+            "number": "17",
+            "name": "",
+            "class": "",
+            "rarity": "",
+            "images": {
+                "default": "/sets/absolute-demonic-front-babylonia-2/17.png"
+            }
+        },
+        {
+            "id": 18,
+            "number": "18",
+            "name": "",
+            "class": "",
+            "rarity": "",
+            "images": {
+                "default": "/sets/absolute-demonic-front-babylonia-2/18.png"
+            }
+        },
+        {
+            "id": 19,
+            "number": "19",
+            "name": "Benkei and GyuuWakamaru and Leonidas Issei",
+            "class": "",
+            "rarity": "",
+            "images": {
+                "default": "/sets/absolute-demonic-front-babylonia-2/19.png"
+            }
+        },
+        {
+            "id": 20,
+            "number": "20",
+            "name": "Ritsuka Fujimaru and Mash Kyrielight",
+            "class": "",
+            "rarity": "",
+            "images": {
+                "default": "/sets/absolute-demonic-front-babylonia-2/20.png"
+            }
+        },
+        {
+            "id": 21,
+            "number": "21",
+            "name": "",
+            "class": "",
+            "rarity": "",
+            "images": {
+                "default": "/sets/absolute-demonic-front-babylonia-2/21.png"
+            }
+        },
+        {
+            "id": 22,
+            "number": "22",
+            "name": "",
+            "class": "",
+            "rarity": "",
+            "images": {
+                "default": "/sets/absolute-demonic-front-babylonia-2/22.png"
+            }
+        },
+        {
+            "id": 23,
+            "number": "23",
+            "name": "Jaguarman",
+            "class": "",
+            "rarity": "",
+            "images": {
+                "default": "/sets/absolute-demonic-front-babylonia-2/23.png"
+            }
+        },
+        {
+            "id": 24,
+            "number": "24",
+            "name": "Enkidu",
+            "class": "",
+            "rarity": "",
+            "images": {
+                "default": "/sets/absolute-demonic-front-babylonia-2/24.png"
+            }
+        },
+        {
+            "id": 25,
+            "number": "25",
+            "name": "",
+            "class": "",
+            "rarity": "",
+            "images": {
+                "default": "/sets/absolute-demonic-front-babylonia-2/25.png"
+            }
+        },
+        {
+            "id": 26,
+            "number": "26",
+            "name": "Enkidu and Gilgamesh",
+            "class": "Visual card",
+            "rarity": "",
+            "images": {
+                "default": "/sets/absolute-demonic-front-babylonia-2/26.png"
+            }
+        },
+        {
+            "id": 27,
+            "number": "27",
+            "name": "Gilgamesh",
+            "class": "Visual card",
+            "rarity": "",
+            "images": {
+                "default": "/sets/absolute-demonic-front-babylonia-2/27.png"
+            }
+        },
+        {
+            "id": 28,
+            "number": "28",
+            "name": "Ana and Merlin",
+            "class": "Visual card",
+            "rarity": "",
+            "images": {
+                "default": "/sets/absolute-demonic-front-babylonia-2/28.png"
+            }
+        }
+    ],
+    "count": 28,
+    "name": "Fate/Grand Order -Absolute Demonic Front: Babylonia- Wafer 2"
+}

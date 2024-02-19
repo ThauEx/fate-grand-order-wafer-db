@@ -1,0 +1,326 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "number": "01",
+            "name": "Altria Pendragon",
+            "class": "Saber",
+            "rarity": "SP",
+            "images": {
+                "default": "/sets/reprint-special/01.png"
+            }
+        },
+        {
+            "id": 2,
+            "number": "02",
+            "name": "Nero Claudius",
+            "class": "Saber",
+            "rarity": "SP",
+            "images": {
+                "default": "/sets/reprint-special/02.png"
+            }
+        },
+        {
+            "id": 3,
+            "number": "03",
+            "name": "Bedivere",
+            "class": "Saber",
+            "rarity": "SP",
+            "images": {
+                "default": "/sets/reprint-special/03.png"
+            }
+        },
+        {
+            "id": 4,
+            "number": "04",
+            "name": "Altria Pendragon(Alter)",
+            "class": "Saber",
+            "rarity": "SP",
+            "images": {
+                "default": "/sets/reprint-special/04.png"
+            }
+        },
+        {
+            "id": 5,
+            "number": "05",
+            "name": "Okita Souji",
+            "class": "Saber",
+            "rarity": "SP",
+            "images": {
+                "default": "/sets/reprint-special/05.png"
+            }
+        },
+        {
+            "id": 6,
+            "number": "06",
+            "name": "Miyamoto Musashi",
+            "class": "Saber",
+            "rarity": "SP",
+            "images": {
+                "default": "/sets/reprint-special/06.png"
+            }
+        },
+        {
+            "id": 7,
+            "number": "07",
+            "name": "Emiya",
+            "class": "Archer",
+            "rarity": "SP",
+            "images": {
+                "default": "/sets/reprint-special/07.png"
+            }
+        },
+        {
+            "id": 8,
+            "number": "08",
+            "name": "Ishtar",
+            "class": "Archer",
+            "rarity": "SP",
+            "images": {
+                "default": "/sets/reprint-special/08.png"
+            }
+        },
+        {
+            "id": 9,
+            "number": "09",
+            "name": "Gilgamesh",
+            "class": "Archer",
+            "rarity": "SP",
+            "images": {
+                "default": "/sets/reprint-special/09.png"
+            }
+        },
+        {
+            "id": 10,
+            "number": "10",
+            "name": "Arjuna",
+            "class": "Archer",
+            "rarity": "SP",
+            "images": {
+                "default": "/sets/reprint-special/10.png"
+            }
+        },
+        {
+            "id": 11,
+            "number": "11",
+            "name": "Archer of Inferno",
+            "class": "Archer",
+            "rarity": "SP",
+            "images": {
+                "default": "/sets/reprint-special/11.png"
+            }
+        },
+        {
+            "id": 12,
+            "number": "12",
+            "name": "Scáthach",
+            "class": "Lancer",
+            "rarity": "SP",
+            "images": {
+                "default": "/sets/reprint-special/12.png"
+            }
+        },
+        {
+            "id": 13,
+            "number": "13",
+            "name": "Cú Chulainn",
+            "class": "Lancer",
+            "rarity": "SP",
+            "images": {
+                "default": "/sets/reprint-special/13.png"
+            }
+        },
+        {
+            "id": 14,
+            "number": "14",
+            "name": "Karna",
+            "class": "Archer",
+            "rarity": "SP",
+            "images": {
+                "default": "/sets/reprint-special/14.png"
+            }
+        },
+        {
+            "id": 15,
+            "number": "15",
+            "name": "Marie Antoinette",
+            "class": "Rider",
+            "rarity": "SP",
+            "images": {
+                "default": "/sets/reprint-special/15.png"
+            }
+        },
+        {
+            "id": 16,
+            "number": "16",
+            "name": "Astolfo",
+            "class": "Rider",
+            "rarity": "SP",
+            "images": {
+                "default": "/sets/reprint-special/16.png"
+            }
+        },
+        {
+            "id": 17,
+            "number": "17",
+            "name": "Ozymandias",
+            "class": "Rider",
+            "rarity": "SP",
+            "images": {
+                "default": "/sets/reprint-special/17.png"
+            }
+        },
+        {
+            "id": 18,
+            "number": "18",
+            "name": "Zhuge Liang(Lord El-Melloi II)",
+            "class": "Caster",
+            "rarity": "SP",
+            "images": {
+                "default": "/sets/reprint-special/18.png"
+            }
+        },
+        {
+            "id": 19,
+            "number": "19",
+            "name": "Tamamo-no-Mae",
+            "class": "Caster",
+            "rarity": "SP",
+            "images": {
+                "default": "/sets/reprint-special/19.png"
+            }
+        },
+        {
+            "id": 20,
+            "number": "20",
+            "name": "Merlin",
+            "class": "Caster",
+            "rarity": "SP",
+            "images": {
+                "default": "/sets/reprint-special/20.png"
+            }
+        },
+        {
+            "id": 21,
+            "number": "21",
+            "name": "",
+            "class": "",
+            "rarity": "SP",
+            "images": {
+                "default": "/sets/reprint-special/21.png"
+            }
+        },
+        {
+            "id": 22,
+            "number": "22",
+            "name": "\"First Hassan\"",
+            "class": "Assassin",
+            "rarity": "SP",
+            "images": {
+                "default": "/sets/reprint-special/22.png"
+            }
+        },
+        {
+            "id": 23,
+            "number": "23",
+            "name": "Assassin of Shinjuku",
+            "class": "Assassin",
+            "rarity": "SP",
+            "images": {
+                "default": "/sets/reprint-special/23.png"
+            }
+        },
+        {
+            "id": 24,
+            "number": "24",
+            "name": "MysteriousHeroineX",
+            "class": "Assassine",
+            "rarity": "SP",
+            "images": {
+                "default": "/sets/reprint-special/24.png"
+            }
+        },
+        {
+            "id": 25,
+            "number": "25",
+            "name": "Shuten-Douji",
+            "class": "Assassin",
+            "rarity": "SP",
+            "images": {
+                "default": "/sets/reprint-special/25.png"
+            }
+        },
+        {
+            "id": 26,
+            "number": "26",
+            "name": "Kiyohime",
+            "class": "Berserker",
+            "rarity": "SP",
+            "images": {
+                "default": "/sets/reprint-special/26.png"
+            }
+        },
+        {
+            "id": 27,
+            "number": "27",
+            "name": "Minamoto-no-Raikou",
+            "class": "Berserker",
+            "rarity": "SP",
+            "images": {
+                "default": "/sets/reprint-special/27.png"
+            }
+        },
+        {
+            "id": 28,
+            "number": "28",
+            "name": "Jeanne d'Arc",
+            "class": "Ruler",
+            "rarity": "SP",
+            "images": {
+                "default": "/sets/reprint-special/28.png"
+            }
+        },
+        {
+            "id": 29,
+            "number": "29",
+            "name": "Sherlock Holmes",
+            "class": "Ruler",
+            "rarity": "SP",
+            "images": {
+                "default": "/sets/reprint-special/29.png"
+            }
+        },
+        {
+            "id": 30,
+            "number": "30",
+            "name": "Edmond Dantes",
+            "class": "Avenger",
+            "rarity": "SP",
+            "images": {
+                "default": "/sets/reprint-special/30.png"
+            }
+        },
+        {
+            "id": 31,
+            "number": "31",
+            "name": "Jeanne d'Arc(Alter)",
+            "class": "Avenger",
+            "rarity": "SP",
+            "images": {
+                "default": "/sets/reprint-special/31.png"
+            }
+        },
+        {
+            "id": 32,
+            "number": "32",
+            "name": "Aŋra Mainiiu",
+            "class": "Avenger",
+            "rarity": "SSP",
+            "images": {
+                "default": "/sets/reprint-special/32.png"
+            }
+        }
+    ],
+    "count": 32,
+    "name": "Fate/Grand Order Wafer Reprint Special"
+}

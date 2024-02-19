@@ -1,0 +1,256 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "number": "01",
+            "name": "Suzuka Gozen",
+            "class": "Saber",
+            "rarity": "N",
+            "images": {
+                "default": "/sets/05/01.png"
+            }
+        },
+        {
+            "id": 2,
+            "number": "02",
+            "name": "Rama",
+            "class": "Saber",
+            "rarity": "N",
+            "images": {
+                "default": "/sets/05/02.png"
+            }
+        },
+        {
+            "id": 3,
+            "number": "03",
+            "name": "David",
+            "class": "Archer",
+            "rarity": "N",
+            "images": {
+                "default": "/sets/05/03.png"
+            }
+        },
+        {
+            "id": 4,
+            "number": "04",
+            "name": "Attilla the San(ta)",
+            "class": "Archer",
+            "rarity": "N",
+            "images": {
+                "default": "/sets/05/04.png"
+            }
+        },
+        {
+            "id": 5,
+            "number": "05",
+            "name": "Diarmuid Ua Duibhne",
+            "class": "Lancer",
+            "rarity": "N",
+            "images": {
+                "default": "/sets/05/05.png"
+            }
+        },
+        {
+            "id": 6,
+            "number": "06",
+            "name": "Boudica",
+            "class": "Rider",
+            "rarity": "N",
+            "images": {
+                "default": "/sets/05/06.png"
+            }
+        },
+        {
+            "id": 7,
+            "number": "07",
+            "name": "Cú Chulainn",
+            "class": "Caster",
+            "rarity": "N",
+            "images": {
+                "default": "/sets/05/07.png"
+            }
+        },
+        {
+            "id": 8,
+            "number": "08",
+            "name": "Medea(Lily)",
+            "class": "Caster",
+            "rarity": "N",
+            "images": {
+                "default": "/sets/05/08.png"
+            }
+        },
+        {
+            "id": 9,
+            "number": "09",
+            "name": "Mata Hari",
+            "class": "Assassin",
+            "rarity": "N",
+            "images": {
+                "default": "/sets/05/09.png"
+            }
+        },
+        {
+            "id": 10,
+            "number": "10",
+            "name": "Fuuma \"Evil-wind\" Kotarou",
+            "class": "Assassin",
+            "rarity": "N",
+            "images": {
+                "default": "/sets/05/10.png"
+            }
+        },
+        {
+            "id": 11,
+            "number": "11",
+            "name": "Asterios",
+            "class": "Berserker",
+            "rarity": "N",
+            "images": {
+                "default": "/sets/05/11.png"
+            }
+        },
+        {
+            "id": 12,
+            "number": "12",
+            "name": "Chacha",
+            "class": "Berserker",
+            "rarity": "N",
+            "images": {
+                "default": "/sets/05/12.png"
+            }
+        },
+        {
+            "id": 13,
+            "number": "13",
+            "name": "Elisabeth Báthory(Brave)",
+            "class": "Saber",
+            "rarity": "R",
+            "images": {
+                "default": "/sets/05/13.png"
+            }
+        },
+        {
+            "id": 14,
+            "number": "14",
+            "name": "Archer",
+            "class": "Robin Hood",
+            "rarity": "R",
+            "images": {
+                "default": "/sets/05/14.png"
+            }
+        },
+        {
+            "id": 15,
+            "number": "15",
+            "name": "Parvati",
+            "class": "Lancer",
+            "rarity": "R",
+            "images": {
+                "default": "/sets/05/15.png"
+            }
+        },
+        {
+            "id": 16,
+            "number": "16",
+            "name": "Altria Pendragon(SantaAlter)",
+            "class": "Rider",
+            "rarity": "R",
+            "images": {
+                "default": "/sets/05/16.png"
+            }
+        },
+        {
+            "id": 17,
+            "number": "17",
+            "name": "Nursery Rhyme",
+            "class": "Caster",
+            "rarity": "R",
+            "images": {
+                "default": "/sets/05/17.png"
+            }
+        },
+        {
+            "id": 18,
+            "number": "18",
+            "name": "Osakabehime",
+            "class": "Assassin",
+            "rarity": "R",
+            "images": {
+                "default": "/sets/05/18.png"
+            }
+        },
+        {
+            "id": 19,
+            "number": "19",
+            "name": "Ibarak-Douji",
+            "class": "Berserker",
+            "rarity": "R",
+            "images": {
+                "default": "/sets/05/19.png"
+            }
+        },
+        {
+            "id": 20,
+            "number": "20",
+            "name": "Avenger of Shinjuku",
+            "class": "Avenger",
+            "rarity": "R",
+            "images": {
+                "default": "/sets/05/20.png"
+            }
+        },
+        {
+            "id": 21,
+            "number": "21",
+            "name": "Mordred",
+            "class": "Saber",
+            "rarity": "SR",
+            "images": {
+                "default": "/sets/05/21.png"
+            }
+        },
+        {
+            "id": 22,
+            "number": "22",
+            "name": "Ereshkigal",
+            "class": "Lancer",
+            "rarity": "SR",
+            "images": {
+                "default": "/sets/05/22.png"
+            }
+        },
+        {
+            "id": 23,
+            "number": "23",
+            "name": "Iskandar",
+            "class": "Rider",
+            "rarity": "SR",
+            "images": {
+                "default": "/sets/05/23.png"
+            }
+        },
+        {
+            "id": 24,
+            "number": "24",
+            "name": "Abigail Williams",
+            "class": "Foreigner",
+            "rarity": "SR",
+            "images": {
+                "default": "/sets/05/24.png"
+            }
+        },
+        {
+            "id": 25,
+            "number": "25",
+            "name": "ArthurPendragon(Prototype)",
+            "class": "Saber",
+            "rarity": "SSR",
+            "images": {
+                "default": "/sets/05/25.png"
+            }
+        }
+    ],
+    "count": 25,
+    "name": "Fate/Grand Order Wafer 5"
+}

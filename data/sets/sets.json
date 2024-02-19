@@ -1,0 +1,175 @@
+{
+    "data": [
+        {
+            "id": "01",
+            "name": "Fate/Grand Order Wafer",
+            "total": 25,
+            "releaseDate": "Late Oct., 2017",
+            "janCode": "4549660189688",
+            "images": {
+                "cover": "/sets/01/cover.png"
+            }
+        },
+        {
+            "id": "02",
+            "name": "Fate/Grand Order Wafer 2",
+            "total": 25,
+            "releaseDate": "Mid Mar., 2018",
+            "janCode": "24549660224970",
+            "images": {
+                "cover": "/sets/02/cover.png"
+            }
+        },
+        {
+            "id": "03",
+            "name": "Fate/Grand Order Wafer 3",
+            "total": 25,
+            "releaseDate": "Early Jun., 2018",
+            "janCode": "24549660251396",
+            "images": {
+                "cover": "/sets/03/cover.png"
+            }
+        },
+        {
+            "id": "04",
+            "name": "Fate/Grand Order Wafer 4",
+            "total": 25,
+            "releaseDate": "Mid Aug., 2018",
+            "janCode": "24549660252249",
+            "images": {
+                "cover": "/sets/04/cover.png"
+            }
+        },
+        {
+            "id": "05",
+            "name": "Fate/Grand Order Wafer 5",
+            "total": 25,
+            "releaseDate": "Mid Nov., 2018",
+            "janCode": "4549660290186",
+            "images": {
+                "cover": "/sets/05/cover.png"
+            }
+        },
+        {
+            "id": "reprint-special",
+            "name": "Fate/Grand Order Wafer Reprint Special",
+            "total": 32,
+            "releaseDate": "Early Dec., 2018",
+            "janCode": "24549660290531",
+            "images": {
+                "cover": "/sets/reprint-special/cover.png"
+            }
+        },
+        {
+            "id": "06",
+            "name": "Fate/Grand Order Wafer 6",
+            "total": 25,
+            "releaseDate": "Mid Feb., 2019",
+            "janCode": "4549660338970",
+            "images": {
+                "cover": "/sets/06/cover.png"
+            }
+        },
+        {
+            "id": "07",
+            "name": "Fate/Grand Order Wafer 7",
+            "total": 25,
+            "releaseDate": "Late Jul., 2019",
+            "janCode": "24549660340038",
+            "images": {
+                "cover": "/sets/07/cover.png"
+            }
+        },
+        {
+            "id": "absolute-demonic-front-babylonia",
+            "name": "Fate/Grand Order -Absolute Demonic Front: Babylonia- Wafer",
+            "total": 21,
+            "releaseDate": "Early Nov., 2019",
+            "janCode": "4549660423669",
+            "images": {
+                "cover": "/sets/absolute-demonic-front-babylonia/cover.png"
+            }
+        },
+        {
+            "id": "reprint-special-2",
+            "name": "Fate/Grand Order Wafer Reprint Special 2",
+            "total": 33,
+            "releaseDate": "Late Sep., 2019",
+            "janCode": "4549660423850",
+            "images": {
+                "cover": "/sets/reprint-special-2/cover.png"
+            }
+        },
+        {
+            "id": "absolute-demonic-front-babylonia-2",
+            "name": "Fate/Grand Order -Absolute Demonic Front: Babylonia- Wafer 2",
+            "total": 28,
+            "releaseDate": "Late Feb., 2020",
+            "janCode": "24549660464246",
+            "images": {
+                "cover": "/sets/absolute-demonic-front-babylonia-2/cover.png"
+            }
+        },
+        {
+            "id": "08",
+            "name": "Fate/Grand Order Wafer 08",
+            "total": 25,
+            "releaseDate": "Early Jun., 2020",
+            "janCode": "4549660465782",
+            "images": {
+                "cover": "/sets/08/cover.png"
+            }
+        },
+        {
+            "id": "09",
+            "name": "Fate/Grand Order Wafer 09",
+            "total": 25,
+            "releaseDate": "Early Sep., 2020",
+            "janCode": "24549660542500",
+            "images": {
+                "cover": "/sets/09/cover.png"
+            }
+        },
+        {
+            "id": "10",
+            "name": "Fate/Grand Order Wafer 10",
+            "total": 25,
+            "releaseDate": "Early Aug., 2021",
+            "janCode": "4549660626978",
+            "images": {
+                "cover": "/sets/10/cover.png"
+            }
+        },
+        {
+            "id": "11",
+            "name": "Fate/Grand Order Wafer 11",
+            "total": 34,
+            "releaseDate": "Early Aug., 2022",
+            "janCode": "4549660738732",
+            "images": {
+                "cover": "/sets/11/cover.png"
+            }
+        },
+        {
+            "id": "12",
+            "name": "Fate/Grand Order Wafer 12",
+            "total": 30,
+            "releaseDate": "Early Jul., 2023",
+            "janCode": "4549660958338",
+            "images": {
+                "cover": "/sets/12/cover.png"
+            }
+        },
+        {
+            "id": "twin-wafer-special",
+            "name": "Fate/Grand Order Twin Wafer special",
+            "total": 24,
+            "releaseDate": "Early Jan., 2024",
+            "janCode": "4570117911026",
+            "images": {
+                "cover": "/sets/twin-wafer-special/cover.png"
+            }
+        }
+    ],
+    "count": 13
+}

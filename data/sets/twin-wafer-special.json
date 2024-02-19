@@ -1,0 +1,246 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "number": "01",
+            "name": "Altria Pendragon",
+            "class": "Saber",
+            "rarity": "ST",
+            "images": {
+                "default": "/sets/twin-wafer-special/01.png"
+            }
+        },
+        {
+            "id": 2,
+            "number": "02",
+            "name": "Gilgamesh",
+            "class": "Archer",
+            "rarity": "ST",
+            "images": {
+                "default": "/sets/twin-wafer-special/02.png"
+            }
+        },
+        {
+            "id": 3,
+            "number": "03",
+            "name": "Cú Chulainn",
+            "class": "Caster",
+            "rarity": "ST",
+            "images": {
+                "default": "/sets/twin-wafer-special/03.png"
+            }
+        },
+        {
+            "id": 4,
+            "number": "04",
+            "name": "Heracles",
+            "class": "Berserker",
+            "rarity": "ST",
+            "images": {
+                "default": "/sets/twin-wafer-special/04.png"
+            }
+        },
+        {
+            "id": 5,
+            "number": "05",
+            "name": "Okita Souji",
+            "class": "Saber",
+            "rarity": "ST",
+            "images": {
+                "default": "/sets/twin-wafer-special/05.png"
+            }
+        },
+        {
+            "id": 6,
+            "number": "06",
+            "name": "Karna",
+            "class": "Lancer",
+            "rarity": "ST",
+            "images": {
+                "default": "/sets/twin-wafer-special/06.png"
+            }
+        },
+        {
+            "id": 7,
+            "number": "07",
+            "name": "Nitocris",
+            "class": "Assassin",
+            "rarity": "ST",
+            "images": {
+                "default": "/sets/twin-wafer-special/07.png"
+            }
+        },
+        {
+            "id": 8,
+            "number": "08",
+            "name": "Abigail Williams",
+            "class": "Foreigner",
+            "rarity": "ST",
+            "images": {
+                "default": "/sets/twin-wafer-special/08.png"
+            }
+        },
+        {
+            "id": 9,
+            "number": "09",
+            "name": "Scáthach-Skadi",
+            "class": "Caster",
+            "rarity": "ST",
+            "images": {
+                "default": "/sets/twin-wafer-special/09.png"
+            }
+        },
+        {
+            "id": 10,
+            "number": "10",
+            "name": "BB",
+            "class": "Moon Cancer",
+            "rarity": "ST",
+            "images": {
+                "default": "/sets/twin-wafer-special/10.png"
+            }
+        },
+        {
+            "id": 11,
+            "number": "11",
+            "name": "Oda Nobunaga",
+            "class": "Avenger",
+            "rarity": "ST",
+            "images": {
+                "default": "/sets/twin-wafer-special/11.png"
+            }
+        },
+        {
+            "id": 12,
+            "number": "12",
+            "name": "Leonardo da Vinci",
+            "class": "Rider",
+            "rarity": "ST",
+            "images": {
+                "default": "/sets/twin-wafer-special/12.png"
+            }
+        },
+        {
+            "id": 13,
+            "number": "13",
+            "name": "Jason",
+            "class": "Saber",
+            "rarity": "ST",
+            "images": {
+                "default": "/sets/twin-wafer-special/13.png"
+            }
+        },
+        {
+            "id": 14,
+            "number": "14",
+            "name": "Chen Gong",
+            "class": "Caster",
+            "rarity": "ST",
+            "images": {
+                "default": "/sets/twin-wafer-special/14.png"
+            }
+        },
+        {
+            "id": 15,
+            "number": "15",
+            "name": "Altria Pendragon",
+            "class": "Ruler",
+            "rarity": "ST",
+            "images": {
+                "default": "/sets/twin-wafer-special/15.png"
+            }
+        },
+        {
+            "id": 16,
+            "number": "16",
+            "name": "Altria Caster",
+            "class": "Caster",
+            "rarity": "ST",
+            "images": {
+                "default": "/sets/twin-wafer-special/16.png"
+            }
+        },
+        {
+            "id": 17,
+            "number": "17",
+            "name": "Brynhild",
+            "class": "Berserker",
+            "rarity": "ST",
+            "images": {
+                "default": "/sets/twin-wafer-special/17.png"
+            }
+        },
+        {
+            "id": 18,
+            "number": "18",
+            "name": "Saito Hajime",
+            "class": "Saber",
+            "rarity": "ST",
+            "images": {
+                "default": "/sets/twin-wafer-special/18.png"
+            }
+        },
+        {
+            "id": 19,
+            "number": "19",
+            "name": "Nemo",
+            "class": "Rider",
+            "rarity": "ST",
+            "images": {
+                "default": "/sets/twin-wafer-special/19.png"
+            }
+        },
+        {
+            "id": 20,
+            "number": "20",
+            "name": "Senji Muramasa",
+            "class": "Saber",
+            "rarity": "ST",
+            "images": {
+                "default": "/sets/twin-wafer-special/20.png"
+            }
+        },
+        {
+            "id": 21,
+            "number": "21",
+            "name": "Mélusine",
+            "class": "Lancer",
+            "rarity": "ST",
+            "images": {
+                "default": "/sets/twin-wafer-special/21.png"
+            }
+        },
+        {
+            "id": 22,
+            "number": "22",
+            "name": "Oberon Vortigern",
+            "class": "Pretender",
+            "rarity": "ST",
+            "images": {
+                "default": "/sets/twin-wafer-special/22.png"
+            }
+        },
+        {
+            "id": 23,
+            "number": "23",
+            "name": "Kama",
+            "class": "Avenger",
+            "rarity": "ST",
+            "images": {
+                "default": "/sets/twin-wafer-special/23.png"
+            }
+        },
+        {
+            "id": 24,
+            "number": "24",
+            "name": "Secret: Grand New Year",
+            "class": "",
+            "rarity": "SST",
+            "images": {
+                "default": "/sets/twin-wafer-special/24.png"
+            }
+        }
+    ],
+    "count": 24,
+    "name": "Fate/Grand Order Twin Wafer special"
+}

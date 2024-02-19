@@ -1,0 +1,346 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "number": "01",
+            "name": "Barghest",
+            "class": "Saber",
+            "rarity": "N",
+            "images": {
+                "default": "/sets/11/01.png"
+            }
+        },
+        {
+            "id": 2,
+            "number": "02",
+            "name": "Baobhan Sith",
+            "class": "Archer",
+            "rarity": "N",
+            "images": {
+                "default": "/sets/11/02.png"
+            }
+        },
+        {
+            "id": 3,
+            "number": "03",
+            "name": "Gareth",
+            "class": "Lancer",
+            "rarity": "N",
+            "images": {
+                "default": "/sets/11/03.png"
+            }
+        },
+        {
+            "id": 4,
+            "number": "04",
+            "name": "Caenis",
+            "class": "Rider",
+            "rarity": "N",
+            "images": {
+                "default": "/sets/11/04.png"
+            }
+        },
+        {
+            "id": 5,
+            "number": "05",
+            "name": "Miss Crane",
+            "class": "Caster",
+            "rarity": "N",
+            "images": {
+                "default": "/sets/11/05.png"
+            }
+        },
+        {
+            "id": 6,
+            "number": "06",
+            "name": "Kiichi Hogen",
+            "class": "Assassin",
+            "rarity": "N",
+            "images": {
+                "default": "/sets/11/06.png"
+            }
+        },
+        {
+            "id": 7,
+            "number": "07",
+            "name": "Sei Shounagon",
+            "class": "Berserker",
+            "rarity": "N",
+            "images": {
+                "default": "/sets/11/07.png"
+            }
+        },
+        {
+            "id": 8,
+            "number": "08",
+            "name": "Leonardo da Vinci",
+            "class": "Rider",
+            "rarity": "N",
+            "images": {
+                "default": "/sets/11/08.png"
+            }
+        },
+        {
+            "id": 9,
+            "number": "09",
+            "name": "Saito Hajime",
+            "class": "Saber",
+            "rarity": "R",
+            "images": {
+                "default": "/sets/11/09.png"
+            }
+        },
+        {
+            "id": 10,
+            "number": "10",
+            "name": "Anastasia & Viy",
+            "class": "Archer",
+            "rarity": "R",
+            "images": {
+                "default": "/sets/11/10.png"
+            }
+        },
+        {
+            "id": 11,
+            "number": "11",
+            "name": "Mélusine",
+            "class": "Lancer",
+            "rarity": "R",
+            "images": {
+                "default": "/sets/11/11.png"
+            }
+        },
+        {
+            "id": 12,
+            "number": "12",
+            "name": "Nemo",
+            "class": "Rider",
+            "rarity": "R",
+            "images": {
+                "default": "/sets/11/12.png"
+            }
+        },
+        {
+            "id": 13,
+            "number": "13",
+            "name": "Charlotte Corday",
+            "class": "Caster",
+            "rarity": "R",
+            "images": {
+                "default": "/sets/11/13.png"
+            }
+        },
+        {
+            "id": 14,
+            "number": "14",
+            "name": "Voyager",
+            "class": "Foreigner",
+            "rarity": "R",
+            "images": {
+                "default": "/sets/11/14.png"
+            }
+        },
+        {
+            "id": 15,
+            "number": "15",
+            "name": "Nero Claudius",
+            "class": "Saber",
+            "rarity": "CR",
+            "images": {
+                "default": "/sets/11/15.png"
+            }
+        },
+        {
+            "id": 16,
+            "number": "16",
+            "name": "Attila",
+            "class": "Saber",
+            "rarity": "CR",
+            "images": {
+                "default": "/sets/11/16.png"
+            }
+        },
+        {
+            "id": 17,
+            "number": "17",
+            "name": "Euryale",
+            "class": "Archer",
+            "rarity": "CR",
+            "images": {
+                "default": "/sets/11/17.png"
+            }
+        },
+        {
+            "id": 18,
+            "number": "18",
+            "name": "Ushiwakamaru",
+            "class": "Rider",
+            "rarity": "CR",
+            "images": {
+                "default": "/sets/11/18.png"
+            }
+        },
+        {
+            "id": 19,
+            "number": "19",
+            "name": "Medb",
+            "class": "Rider",
+            "rarity": "CR",
+            "images": {
+                "default": "/sets/11/19.png"
+            }
+        },
+        {
+            "id": 20,
+            "number": "20",
+            "name": "Helena Blavatsky",
+            "class": "Caster",
+            "rarity": "CR",
+            "images": {
+                "default": "/sets/11/20.png"
+            }
+        },
+        {
+            "id": 21,
+            "number": "21",
+            "name": "Nitocris",
+            "class": "Caster",
+            "rarity": "CR",
+            "images": {
+                "default": "/sets/11/21.png"
+            }
+        },
+        {
+            "id": 22,
+            "number": "22",
+            "name": "Hassan of Serenity",
+            "class": "Assassin",
+            "rarity": "CR",
+            "images": {
+                "default": "/sets/11/22.png"
+            }
+        },
+        {
+            "id": 23,
+            "number": "23",
+            "name": "Shuten-Douji",
+            "class": "Assassin",
+            "rarity": "CR",
+            "images": {
+                "default": "/sets/11/23.png"
+            }
+        },
+        {
+            "id": 24,
+            "number": "24",
+            "name": "Tamamo Cat",
+            "class": "Berserker",
+            "rarity": "CR",
+            "images": {
+                "default": "/sets/11/24.png"
+            }
+        },
+        {
+            "id": 25,
+            "number": "25",
+            "name": "Janne d'Arc",
+            "class": "Ruler",
+            "rarity": "CR",
+            "images": {
+                "default": "/sets/11/25.png"
+            }
+        },
+        {
+            "id": 26,
+            "number": "26",
+            "name": "Mysterious Idol X(Alter)",
+            "class": "Foreigner",
+            "rarity": "CR",
+            "images": {
+                "default": "/sets/11/26.png"
+            }
+        },
+        {
+            "id": 27,
+            "number": "27",
+            "name": "Mash Kyrielight",
+            "class": "Shielder",
+            "rarity": "CR",
+            "images": {
+                "default": "/sets/11/27.png"
+            }
+        },
+        {
+            "id": 28,
+            "number": "28",
+            "name": "Okita Souji(Alter)",
+            "class": "Saber",
+            "rarity": "SR",
+            "images": {
+                "default": "/sets/11/28.png"
+            }
+        },
+        {
+            "id": 29,
+            "number": "29",
+            "name": "Morgan",
+            "class": "Berserker",
+            "rarity": "SR",
+            "images": {
+                "default": "/sets/11/29.png"
+            }
+        },
+        {
+            "id": 30,
+            "number": "30",
+            "name": "Kama",
+            "class": "Avenger",
+            "rarity": "SR",
+            "images": {
+                "default": "/sets/11/30.png"
+            }
+        },
+        {
+            "id": 31,
+            "number": "31",
+            "name": "Oberon",
+            "class": "Pretender",
+            "rarity": "SR",
+            "images": {
+                "default": "/sets/11/31.png"
+            }
+        },
+        {
+            "id": 32,
+            "number": "32",
+            "name": "Ashiya Doman",
+            "class": "Alterego",
+            "rarity": "SSR",
+            "images": {
+                "default": "/sets/11/32.png"
+            }
+        },
+        {
+            "id": 33,
+            "number": "33",
+            "name": "Senji Muramasa",
+            "class": "Saber",
+            "rarity": "SSR",
+            "images": {
+                "default": "/sets/11/33.png"
+            }
+        },
+        {
+            "id": 34,
+            "number": "34",
+            "name": "Koyanskaya of Light",
+            "class": "Assassin",
+            "rarity": "SSR",
+            "images": {
+                "default": "/sets/11/34.png"
+            }
+        }
+    ],
+    "count": 34,
+    "name": "Fate/Grand Order Wafer 11"
+}

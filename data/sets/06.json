@@ -1,0 +1,256 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "number": "01",
+            "name": "Gaius Julius Caesar",
+            "class": "Saber",
+            "rarity": "N",
+            "images": {
+                "default": "/sets/06/01.png"
+            }
+        },
+        {
+            "id": 2,
+            "number": "02",
+            "name": "Billy the Kid",
+            "class": "Archer",
+            "rarity": "N",
+            "images": {
+                "default": "/sets/06/02.png"
+            }
+        },
+        {
+            "id": 3,
+            "number": "03",
+            "name": "Oda Nobunaga",
+            "class": "Archer",
+            "rarity": "N",
+            "images": {
+                "default": "/sets/06/03.png"
+            }
+        },
+        {
+            "id": 4,
+            "number": "04",
+            "name": "Leonidas I",
+            "class": "Lancer",
+            "rarity": "N",
+            "images": {
+                "default": "/sets/06/04.png"
+            }
+        },
+        {
+            "id": 5,
+            "number": "05",
+            "name": "Hector",
+            "class": "Lancer",
+            "rarity": "N",
+            "images": {
+                "default": "/sets/06/05.png"
+            }
+        },
+        {
+            "id": 6,
+            "number": "06",
+            "name": "Medusa",
+            "class": "Rider",
+            "rarity": "N",
+            "images": {
+                "default": "/sets/06/06.png"
+            }
+        },
+        {
+            "id": 7,
+            "number": "07",
+            "name": "Wolfgang Amadeus Mozart",
+            "class": "Caster",
+            "rarity": "N",
+            "images": {
+                "default": "/sets/06/07.png"
+            }
+        },
+        {
+            "id": 8,
+            "number": "08",
+            "name": "William Shakespeare",
+            "class": "Caster",
+            "rarity": "N",
+            "images": {
+                "default": "/sets/06/08.png"
+            }
+        },
+        {
+            "id": 9,
+            "number": "09",
+            "name": "Hassan of the Cursed Arm",
+            "class": "Assassin",
+            "rarity": "N",
+            "images": {
+                "default": "/sets/06/09.png"
+            }
+        },
+        {
+            "id": 10,
+            "number": "10",
+            "name": "Charles-Henri Sanson",
+            "class": "Assassin",
+            "rarity": "N",
+            "images": {
+                "default": "/sets/06/10.png"
+            }
+        },
+        {
+            "id": 11,
+            "number": "11",
+            "name": "Frankenstein",
+            "class": "Berserker",
+            "rarity": "N",
+            "images": {
+                "default": "/sets/06/11.png"
+            }
+        },
+        {
+            "id": 12,
+            "number": "12",
+            "name": "BB",
+            "class": "Moon Cancer",
+            "rarity": "N",
+            "images": {
+                "default": "/sets/06/12.png"
+            }
+        },
+        {
+            "id": 13,
+            "number": "13",
+            "name": "Altera",
+            "class": "Saber",
+            "rarity": "R",
+            "images": {
+                "default": "/sets/06/13.png"
+            }
+        },
+        {
+            "id": 14,
+            "number": "14",
+            "name": "Atalante",
+            "class": "Archer",
+            "rarity": "R",
+            "images": {
+                "default": "/sets/06/14.png"
+            }
+        },
+        {
+            "id": 15,
+            "number": "15",
+            "name": "Nezha",
+            "class": "Lancer",
+            "rarity": "R",
+            "images": {
+                "default": "/sets/06/15.png"
+            }
+        },
+        {
+            "id": 16,
+            "number": "16",
+            "name": "Sakata Kintoki",
+            "class": "Rider",
+            "rarity": "R",
+            "images": {
+                "default": "/sets/06/16.png"
+            }
+        },
+        {
+            "id": 17,
+            "number": "17",
+            "name": "Caster of Okeanos",
+            "class": "Caster",
+            "rarity": "R",
+            "images": {
+                "default": "/sets/06/17.png"
+            }
+        },
+        {
+            "id": 18,
+            "number": "18",
+            "name": "Hassan of the Serenity",
+            "class": "Assassin",
+            "rarity": "R",
+            "images": {
+                "default": "/sets/06/18.png"
+            }
+        },
+        {
+            "id": 19,
+            "number": "19",
+            "name": "Lancelot",
+            "class": "Berserker",
+            "rarity": "R",
+            "images": {
+                "default": "/sets/06/19.png"
+            }
+        },
+        {
+            "id": 20,
+            "number": "20",
+            "name": "Passionlip",
+            "class": "Alterego",
+            "rarity": "R",
+            "images": {
+                "default": "/sets/06/20.png"
+            }
+        },
+        {
+            "id": 21,
+            "number": "21",
+            "name": "Altria Pendragon",
+            "class": "Lancer",
+            "rarity": "SR",
+            "images": {
+                "default": "/sets/06/21.png"
+            }
+        },
+        {
+            "id": 22,
+            "number": "22",
+            "name": "Semiramis",
+            "class": "Assassin",
+            "rarity": "SR",
+            "images": {
+                "default": "/sets/06/22.png"
+            }
+        },
+        {
+            "id": 23,
+            "number": "23",
+            "name": "Hijikata Toshizo",
+            "class": "Berserker",
+            "rarity": "SR",
+            "images": {
+                "default": "/sets/06/23.png"
+            }
+        },
+        {
+            "id": 24,
+            "number": "24",
+            "name": "Katsushika Hokusai",
+            "class": "Foreigner",
+            "rarity": "SR",
+            "images": {
+                "default": "/sets/06/24.png"
+            }
+        },
+        {
+            "id": 25,
+            "number": "25",
+            "name": "Meltryllis",
+            "class": "Alterego",
+            "rarity": "SSR",
+            "images": {
+                "default": "/sets/06/25.png"
+            }
+        }
+    ],
+    "count": 25,
+    "name": "Fate/Grand Order Wafer 6"
+}

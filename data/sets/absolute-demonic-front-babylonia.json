@@ -1,0 +1,216 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "number": "01",
+            "name": "Ritsuka Fujimaru",
+            "class": "",
+            "rarity": "",
+            "images": {
+                "default": "/sets/absolute-demonic-front-babylonia/01.png"
+            }
+        },
+        {
+            "id": 2,
+            "number": "02",
+            "name": "Mash Kyrielight",
+            "class": "",
+            "rarity": "",
+            "images": {
+                "default": "/sets/absolute-demonic-front-babylonia/02.png"
+            }
+        },
+        {
+            "id": 3,
+            "number": "03",
+            "name": "Romani Archaman",
+            "class": "",
+            "rarity": "",
+            "images": {
+                "default": "/sets/absolute-demonic-front-babylonia/03.png"
+            }
+        },
+        {
+            "id": 4,
+            "number": "04",
+            "name": "Leonardo da Vinci",
+            "class": "",
+            "rarity": "",
+            "images": {
+                "default": "/sets/absolute-demonic-front-babylonia/04.png"
+            }
+        },
+        {
+            "id": 5,
+            "number": "05",
+            "name": "Gilgamesh",
+            "class": "",
+            "rarity": "",
+            "images": {
+                "default": "/sets/absolute-demonic-front-babylonia/05.png"
+            }
+        },
+        {
+            "id": 6,
+            "number": "06",
+            "name": "Enkidu",
+            "class": "",
+            "rarity": "",
+            "images": {
+                "default": "/sets/absolute-demonic-front-babylonia/06.png"
+            }
+        },
+        {
+            "id": 7,
+            "number": "07",
+            "name": "Merlin",
+            "class": "",
+            "rarity": "",
+            "images": {
+                "default": "/sets/absolute-demonic-front-babylonia/07.png"
+            }
+        },
+        {
+            "id": 8,
+            "number": "08",
+            "name": "Ana",
+            "class": "",
+            "rarity": "",
+            "images": {
+                "default": "/sets/absolute-demonic-front-babylonia/08.png"
+            }
+        },
+        {
+            "id": 9,
+            "number": "09",
+            "name": "Ishtar",
+            "class": "",
+            "rarity": "",
+            "images": {
+                "default": "/sets/absolute-demonic-front-babylonia/09.png"
+            }
+        },
+        {
+            "id": 10,
+            "number": "10",
+            "name": "Ritsuka Fujimaru",
+            "class": "",
+            "rarity": "",
+            "images": {
+                "default": "/sets/absolute-demonic-front-babylonia/10.png"
+            }
+        },
+        {
+            "id": 11,
+            "number": "11",
+            "name": "Mash Kyrielight",
+            "class": "",
+            "rarity": "",
+            "images": {
+                "default": "/sets/absolute-demonic-front-babylonia/11.png"
+            }
+        },
+        {
+            "id": 12,
+            "number": "12",
+            "name": "Romani Archaman",
+            "class": "",
+            "rarity": "",
+            "images": {
+                "default": "/sets/absolute-demonic-front-babylonia/12.png"
+            }
+        },
+        {
+            "id": 13,
+            "number": "13",
+            "name": "Leonardo da Vinci",
+            "class": "",
+            "rarity": "",
+            "images": {
+                "default": "/sets/absolute-demonic-front-babylonia/13.png"
+            }
+        },
+        {
+            "id": 14,
+            "number": "14",
+            "name": "Gilgamesh",
+            "class": "",
+            "rarity": "",
+            "images": {
+                "default": "/sets/absolute-demonic-front-babylonia/14.png"
+            }
+        },
+        {
+            "id": 15,
+            "number": "15",
+            "name": "Enkidu",
+            "class": "",
+            "rarity": "",
+            "images": {
+                "default": "/sets/absolute-demonic-front-babylonia/15.png"
+            }
+        },
+        {
+            "id": 16,
+            "number": "16",
+            "name": "Merlin",
+            "class": "",
+            "rarity": "",
+            "images": {
+                "default": "/sets/absolute-demonic-front-babylonia/16.png"
+            }
+        },
+        {
+            "id": 17,
+            "number": "17",
+            "name": "Ana",
+            "class": "",
+            "rarity": "",
+            "images": {
+                "default": "/sets/absolute-demonic-front-babylonia/17.png"
+            }
+        },
+        {
+            "id": 18,
+            "number": "18",
+            "name": "Ishtar",
+            "class": "",
+            "rarity": "",
+            "images": {
+                "default": "/sets/absolute-demonic-front-babylonia/18.png"
+            }
+        },
+        {
+            "id": 19,
+            "number": "19",
+            "name": "Ritsuka Fujimaru and Mash Kyrielight and Fou-kun",
+            "class": "",
+            "rarity": "",
+            "images": {
+                "default": "/sets/absolute-demonic-front-babylonia/19.png"
+            }
+        },
+        {
+            "id": 20,
+            "number": "20",
+            "name": "Ritsuka Fujimaru and Mash Kyrielight",
+            "class": "",
+            "rarity": "",
+            "images": {
+                "default": "/sets/absolute-demonic-front-babylonia/20.png"
+            }
+        },
+        {
+            "id": 21,
+            "number": "21",
+            "name": "Gilgamesh",
+            "class": "",
+            "rarity": "",
+            "images": {
+                "default": "/sets/absolute-demonic-front-babylonia/21.png"
+            }
+        }
+    ],
+    "count": 21,
+    "name": "Fate/Grand Order -Absolute Demonic Front: Babylonia- Wafer"
+}
