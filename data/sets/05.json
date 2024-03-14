@@ -133,8 +133,8 @@
         {
             "id": 14,
             "number": "14",
-            "name": "Archer",
-            "class": "Robin Hood",
+            "name": "Robin Hood",
+            "class": "Archer",
             "rarity": "R",
             "images": {
                 "default": "/sets/05/14.png"
