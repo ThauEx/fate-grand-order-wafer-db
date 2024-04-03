@@ -169,6 +169,16 @@
             "images": {
                 "cover": "/sets/twin-wafer-special/cover.png"
             }
+        },
+        {
+            "id": "13",
+            "name": "Fate/Grand Order Wafer 13",
+            "total": 34,
+            "releaseDate": "Jul., 2024",
+            "janCode": "4570117915819",
+            "images": {
+                "cover": "/sets/13/cover.png"
+            }
         }
     ],
     "count": 13

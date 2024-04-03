@@ -1,0 +1,346 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "number": "01",
+            "name": "Yamanami Keisuke",
+            "class": "Saber",
+            "rarity": "N",
+            "images": {
+                "default": "/sets/13/01.png"
+            }
+        },
+        {
+            "id": 2,
+            "number": "02",
+            "name": "Sétanta",
+            "class": "Saber",
+            "rarity": "N",
+            "images": {
+                "default": "/sets/13/02.png"
+            }
+        },
+        {
+            "id": 3,
+            "number": "03",
+            "name": "Medusa",
+            "class": "Saber",
+            "rarity": "N",
+            "images": {
+                "default": "/sets/13/03.png"
+            }
+        },
+        {
+            "id": 4,
+            "number": "04",
+            "name": "Duryodhana",
+            "class": "Berserker",
+            "rarity": "N",
+            "images": {
+                "default": "/sets/13/04.png"
+            }
+        },
+        {
+            "id": 5,
+            "number": "05",
+            "name": "Sen no Rikyo",
+            "class": "Berserker",
+            "rarity": "N",
+            "images": {
+                "default": "/sets/13/05.png"
+            }
+        },
+        {
+            "id": 6,
+            "number": "06",
+            "name": "Nitocris(Alter)",
+            "class": "Avenger",
+            "rarity": "N",
+            "images": {
+                "default": "/sets/13/06.png"
+            }
+        },
+        {
+            "id": 7,
+            "number": "07",
+            "name": "Cnoc na Riabh Yaraändoo",
+            "class": "Foreigner",
+            "rarity": "N",
+            "images": {
+                "default": "/sets/13/07.png"
+            }
+        },
+        {
+            "id": 8,
+            "number": "08",
+            "name": "Tlaloc",
+            "class": "Pretender",
+            "rarity": "N",
+            "images": {
+                "default": "/sets/13/08.png"
+            }
+        },
+        {
+            "id": 9,
+            "number": "09",
+            "name": "Illyasviel von Einzbern",
+            "class": "Archer",
+            "rarity": "R",
+            "images": {
+                "default": "/sets/13/09.png"
+            }
+        },
+        {
+            "id": 10,
+            "number": "10",
+            "name": "UDK-Barghest",
+            "class": "Archer",
+            "rarity": "R",
+            "images": {
+                "default": "/sets/13/10.png"
+            }
+        },
+        {
+            "id": 11,
+            "number": "11",
+            "name": "Takasugi Shinsaku",
+            "class": "Archer",
+            "rarity": "R",
+            "images": {
+                "default": "/sets/13/11.png"
+            }
+        },
+        {
+            "id": 12,
+            "number": "12",
+            "name": "Durga",
+            "class": "Archer",
+            "rarity": "R",
+            "images": {
+                "default": "/sets/13/12.png"
+            }
+        },
+        {
+            "id": 13,
+            "number": "13",
+            "name": "Suzuka Gozen",
+            "class": "Rider",
+            "rarity": "R",
+            "images": {
+                "default": "/sets/13/13.png"
+            }
+        },
+        {
+            "id": 14,
+            "number": "14",
+            "name": "Chloe von Einzbern",
+            "class": "Avenger",
+            "rarity": "R",
+            "images": {
+                "default": "/sets/13/14.png"
+            }
+        },
+        {
+            "id": 15,
+            "number": "15",
+            "name": "Kukulcan",
+            "class": "Foreigner",
+            "rarity": "R",
+            "images": {
+                "default": "/sets/13/15.png"
+            }
+        },
+        {
+            "id": 16,
+            "number": "16",
+            "name": "Cait CúMikoCer",
+            "class": "Pretender",
+            "rarity": "R",
+            "images": {
+                "default": "/sets/13/16.png"
+            }
+        },
+        {
+            "id": 17,
+            "number": "17",
+            "name": "Nero Claudius",
+            "class": "Saber",
+            "rarity": "R",
+            "images": {
+                "default": "/sets/13/17.png"
+            }
+        },
+        {
+            "id": 18,
+            "number": "18",
+            "name": "Emiya",
+            "class": "Archer",
+            "rarity": "R",
+            "images": {
+                "default": "/sets/13/18.png"
+            }
+        },
+        {
+            "id": 19,
+            "number": "19",
+            "name": "Ereshkigal",
+            "class": "Lancer",
+            "rarity": "R",
+            "images": {
+                "default": "/sets/13/19.png"
+            }
+        },
+        {
+            "id": 20,
+            "number": "20",
+            "name": "Oberon",
+            "class": "Pretender",
+            "rarity": "R",
+            "images": {
+                "default": "/sets/13/20.png"
+            }
+        },
+        {
+            "id": 21,
+            "number": "21",
+            "name": "Kadoc Zemlupus",
+            "class": "Crypter",
+            "rarity": "",
+            "images": {
+                "default": "/sets/13/21.png"
+            }
+        },
+        {
+            "id": 22,
+            "number": "22",
+            "name": "Ophelia Phamrsolone",
+            "class": "Crypter",
+            "rarity": "",
+            "images": {
+                "default": "/sets/13/22.png"
+            }
+        },
+        {
+            "id": 23,
+            "number": "23",
+            "name": "Akuta Hinako",
+            "class": "Crypter",
+            "rarity": "",
+            "images": {
+                "default": "/sets/13/23.png"
+            }
+        },
+        {
+            "id": 24,
+            "number": "24",
+            "name": "Scandinavia Peperoncino",
+            "class": "Crypter",
+            "rarity": "",
+            "images": {
+                "default": "/sets/13/24.png"
+            }
+        },
+        {
+            "id": 25,
+            "number": "25",
+            "name": "Kirschtaria Wodime",
+            "class": "Crypter",
+            "rarity": "",
+            "images": {
+                "default": "/sets/13/25.png"
+            }
+        },
+        {
+            "id": 26,
+            "number": "26",
+            "name": "Beryl Gut",
+            "class": "Crypter",
+            "rarity": "",
+            "images": {
+                "default": "/sets/13/26.png"
+            }
+        },
+        {
+            "id": 27,
+            "number": "27",
+            "name": "Daybit Sem Void",
+            "class": "Crypter",
+            "rarity": "",
+            "images": {
+                "default": "/sets/13/27.png"
+            }
+        },
+        {
+            "id": 28,
+            "number": "28",
+            "name": "Morgan,Lady of the Water",
+            "class": "Caster",
+            "rarity": "SR",
+            "images": {
+                "default": "/sets/13/28.png"
+            }
+        },
+        {
+            "id": 29,
+            "number": "29",
+            "name": "Tezcatlipoca",
+            "class": "Assassin",
+            "rarity": "SR",
+            "images": {
+                "default": "/sets/13/29.png"
+            }
+        },
+        {
+            "id": 30,
+            "number": "30",
+            "name": "Altria Caster",
+            "class": "Berserker",
+            "rarity": "SR",
+            "images": {
+                "default": "/sets/13/30.png"
+            }
+        },
+        {
+            "id": 31,
+            "number": "31",
+            "name": "Mélusine",
+            "class": "Ruler",
+            "rarity": "SR",
+            "images": {
+                "default": "/sets/13/31.png"
+            }
+        },
+        {
+            "id": 32,
+            "number": "32",
+            "name": "Kotomine Kirei",
+            "class": "Alterego",
+            "rarity": "SR",
+            "images": {
+                "default": "/sets/13/32.png"
+            }
+        },
+        {
+            "id": 33,
+            "number": "33",
+            "name": "Larava/Tiamat",
+            "class": "Alterego",
+            "rarity": "SR",
+            "images": {
+                "default": "/sets/13/33.png"
+            }
+        },
+        {
+            "id": 34,
+            "number": "30",
+            "name": "",
+            "class": "",
+            "rarity": "SSR",
+            "images": {
+                "default": "/sets/13/30.png"
+            }
+        }
+    ],
+    "count": 34,
+    "name": "Fate/Grand Order Wafer 13"
+}
