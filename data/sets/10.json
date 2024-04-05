@@ -1,0 +1,256 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "number": "01",
+            "name": "Lakshmi Baai",
+            "class": "Saber",
+            "rarity": "N",
+            "images": {
+                "default": "/sets/10/01.png"
+            }
+        },
+        {
+            "id": 2,
+            "number": "02",
+            "name": "Calamity Jane",
+            "class": "Archer",
+            "rarity": "N",
+            "images": {
+                "default": "/sets/10/02.png"
+            }
+        },
+        {
+            "id": 3,
+            "number": "03",
+            "name": "Li Shuwen",
+            "class": "Lancer",
+            "rarity": "N",
+            "images": {
+                "default": "/sets/10/03.png"
+            }
+        },
+        {
+            "id": 4,
+            "number": "04",
+            "name": "Utsumi Erice",
+            "class": "Lancer",
+            "rarity": "N",
+            "images": {
+                "default": "/sets/10/04.png"
+            }
+        },
+        {
+            "id": 5,
+            "number": "05",
+            "name": "Mandricardo",
+            "class": "Rider",
+            "rarity": "N",
+            "images": {
+                "default": "/sets/10/05.png"
+            }
+        },
+        {
+            "id": 6,
+            "number": "06",
+            "name": "Europa",
+            "class": "Rider",
+            "rarity": "N",
+            "images": {
+                "default": "/sets/10/06.png"
+            }
+        },
+        {
+            "id": 7,
+            "number": "07",
+            "name": "Gilles de Rais",
+            "class": "Caster",
+            "rarity": "N",
+            "images": {
+                "default": "/sets/10/07.png"
+            }
+        },
+        {
+            "id": 8,
+            "number": "08",
+            "name": "Mehpistopheles",
+            "class": "Caster",
+            "rarity": "N",
+            "images": {
+                "default": "/sets/10/08.png"
+            }
+        },
+        {
+            "id": 9,
+            "number": "09",
+            "name": "Phantom of the Opera",
+            "class": "Assassin",
+            "rarity": "N",
+            "images": {
+                "default": "/sets/10/09.png"
+            }
+        },
+        {
+            "id": 10,
+            "number": "10",
+            "name": "Stheno",
+            "class": "Assassin",
+            "rarity": "N",
+            "images": {
+                "default": "/sets/10/10.png"
+            }
+        },
+        {
+            "id": 11,
+            "number": "11",
+            "name": "Salome",
+            "class": "Berserker",
+            "rarity": "N",
+            "images": {
+                "default": "/sets/10/11.png"
+            }
+        },
+        {
+            "id": 12,
+            "number": "12",
+            "name": "Darius III",
+            "class": "Berserker",
+            "rarity": "N",
+            "images": {
+                "default": "/sets/10/12.png"
+            }
+        },
+        {
+            "id": 13,
+            "number": "13",
+            "name": "Dioscuri",
+            "class": "Saber",
+            "rarity": "R",
+            "images": {
+                "default": "/sets/10/13.png"
+            }
+        },
+        {
+            "id": 14,
+            "number": "14",
+            "name": "Yu Mei-ren",
+            "class": "Lancer",
+            "rarity": "R",
+            "images": {
+                "default": "/sets/10/14.png"
+            }
+        },
+        {
+            "id": 15,
+            "number": "15",
+            "name": "Caenis",
+            "class": "Lancer",
+            "rarity": "R",
+            "images": {
+                "default": "/sets/10/15.png"
+            }
+        },
+        {
+            "id": 16,
+            "number": "16",
+            "name": "Murasaki Shikibu",
+            "class": "Rider",
+            "rarity": "R",
+            "images": {
+                "default": "/sets/10/16.png"
+            }
+        },
+        {
+            "id": 17,
+            "number": "17",
+            "name": "Odysseus",
+            "class": "Rider",
+            "rarity": "R",
+            "images": {
+                "default": "/sets/10/17.png"
+            }
+        },
+        {
+            "id": 18,
+            "number": "18",
+            "name": "Katou \"Black Kite\" Danzo",
+            "class": "Assassin",
+            "rarity": "R",
+            "images": {
+                "default": "/sets/10/18.png"
+            }
+        },
+        {
+            "id": 19,
+            "number": "19",
+            "name": "Brynhild",
+            "class": "Berserker",
+            "rarity": "R",
+            "images": {
+                "default": "/sets/10/19.png"
+            }
+        },
+        {
+            "id": 20,
+            "number": "20",
+            "name": "Jinako Carigiri",
+            "class": "Moon Cancer",
+            "rarity": "R",
+            "images": {
+                "default": "/sets/10/20.png"
+            }
+        },
+        {
+            "id": 21,
+            "number": "21",
+            "name": "Astolfo",
+            "class": "Saber",
+            "rarity": "SR",
+            "images": {
+                "default": "/sets/10/21.png"
+            }
+        },
+        {
+            "id": 22,
+            "number": "22",
+            "name": "Altria Caster",
+            "class": "Caster",
+            "rarity": "SR",
+            "images": {
+                "default": "/sets/10/22.png"
+            }
+        },
+        {
+            "id": 23,
+            "number": "23",
+            "name": "Abigail Williams (Summer)",
+            "class": "Foreigner",
+            "rarity": "SR",
+            "images": {
+                "default": "/sets/10/23.png"
+            }
+        },
+        {
+            "id": 24,
+            "number": "24",
+            "name": "Sessyoin Kiara",
+            "class": "Moon Cancer",
+            "rarity": "SR",
+            "images": {
+                "default": "/sets/10/24.png"
+            }
+        },
+        {
+            "id": 25,
+            "number": "25",
+            "name": "Space Ishtar",
+            "class": "Avenger",
+            "rarity": "SSR",
+            "images": {
+                "default": "/sets/10/25.png"
+            }
+        }
+    ],
+    "count": 25,
+    "name": "Fate/Grand Order Wafer 10"
+}
